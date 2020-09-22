@@ -51,7 +51,7 @@ window.OhMDWidget = function(i) {
         "use strict";
         i.r(e);
         var o = null,
-            a = "".concat("https://github.com/abhav/OhMd/blob/master", "/widget.js");
+            a = "".concat("https://cdn.jsdelivr.net/gh/abhav/OhMd", "/widget.js");
         e.default = {
             initialize: function(t) {
                 if (o) {
